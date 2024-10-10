@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>simple Code TO show How To Use Subscripted & Subscripted tags In HTML</title>
+    </head>
+    <body>
+    <p>Check the placement of "2" in words below:</p>
+        <p align="center">
+        <b><i>Subscripted</i></b> H<sub>2</sub>O <br />
+        <b><i>Superscripted</i></b> X<sup>2</sup></p>
+        <p>Thats it, Thanks</p>
+    </body>
+</html>
